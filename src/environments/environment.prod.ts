@@ -1,4 +1,4 @@
 export const environment = {
     production: true,
-    apiUrl: 'http://blink'
+    apiUrl: 'https://baxcasaini.github.io/bfe/'
 };
