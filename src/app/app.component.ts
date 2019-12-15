@@ -1,8 +1,13 @@
 import { Component } from '@angular/core';
+import { environment } from '../environments/environment';
 
 @Component({
-  selector: 'my-app',
+  selector: 'app-root',
   templateUrl: './app.component.html'
 })
-export class AppComponent  {
+export class AppComponent {
+  constructor() {
+    console.log(environment.production); // Logs false for default environment
+  }
+  title = 'app works!';
 }
