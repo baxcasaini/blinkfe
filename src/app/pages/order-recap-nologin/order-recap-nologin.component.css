@@ -1,0 +1,41 @@
+.example-card {
+  max-width: 400px;
+}
+
+#recap-heading {
+  padding-top: 10px;
+  padding-bottom: 20px;
+}
+
+.text-centered {
+  text-align: center;
+}
+
+#print-label {
+  padding-top: 10px;
+}
+
+.tracking-card {
+  text-align: center;
+  width: 200px;
+  display: inline;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.tracking-numbers {
+  height: 150px;
+  margin-left: 30%;
+  margin-right: auto;
+  display: flex;
+}
+
+.register-link {
+  text-align: center;
+}
+
+.button-print {
+  margin-left: 10px;
+}

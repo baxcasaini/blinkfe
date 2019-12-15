@@ -1,0 +1,50 @@
+.home-banner {
+    height: 200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.tracking-card {
+  width: 400px;
+  height: 160px;
+  margin-top: 20px;
+  background-color: grey;
+  margin-bottom: 20px;
+  margin-left: 20px;
+  float:left; 
+  display:block;
+}
+
+.button-newclient {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  left: 0;
+  width: 300px;
+  height: 60px;
+}
+
+.newclient-card {
+  width: 400px;
+  height:160px;
+  margin-top: 20px;
+  background-color: grey;
+  margin-bottom: 20px;
+  margin-left: 20px;
+  float:left; 
+  display:block;
+}
+
+.form-tracking {
+  margin-bottom: 20px;
+}
+
+.form-tracking-input {
+  width: 70%;
+  margin-bottom: 20px;
+}
+
+.tracking-button {
+  margin-right: 30px;
+}
+
